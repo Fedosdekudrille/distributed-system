@@ -11,11 +11,11 @@
 - Репликация данных между локальными и центральным серверами
 
 Общая схема взаимодействия выглядит примерно следующим образом:
-![main_scheme](https://github.com/Fedosdekudrille/distributed-system/tree/main/assets/md/main_scheme.png)
+![main_scheme](https://github.com/Fedosdekudrille/distributed-system/blob/2da2a871d06444246558ba9fabffff626c411d2f/assets/md/main_scheme.png)
 ### Репликация данных между локальными и центральным серверами
 Итак, самое важное что есть в этой лабе, это репликация 2 видов. 
 Рассмотрим их на простой схеме с центральным и 1 локальным веб-сервисом:
-![lab4_6replication_shemes](https://github.com/Fedosdekudrille/distributed-system/tree/main/assets/md/replication_schemes.png)
+![lab4_6replication_shemes](https://github.com/Fedosdekudrille/distributed-system/blob/2da2a871d06444246558ba9fabffff626c411d2f/assets/md/main_scheme.png)
 Обе репликации так или иначе инициируются центральный веб-сервисом. 
 ### Вытягивающая репликация. 
 Вытягивающая она, потому что она ~~как бы~~ вытягивает данные из наших локальных веб-сервисов. 
