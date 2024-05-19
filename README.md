@@ -11,11 +11,11 @@
 - Репликация данных между локальными и центральным серверами
 
 Общая схема взаимодействия выглядит примерно следующим образом:
-![lab4_6main_scheme](https://github.com/mirmicuper/RIS_6sem/blob/main/FilesForMD/lab4_6main_scheme.png)
+![main_scheme](https://github.com/Fedosdekudrille/distributed-system/tree/main/assets/md/main_scheme.png)
 ### Репликация данных между локальными и центральным серверами
 Итак, самое важное что есть в этой лабе, это репликация 2 видов. 
 Рассмотрим их на простой схеме с центральным и 1 локальным веб-сервисом:
-![lab4_6replication_shemes](https://github.com/mirmicuper/RIS_6sem/blob/main/FilesForMD/lab4_6replication_schemes.png)
+![lab4_6replication_shemes](https://github.com/Fedosdekudrille/distributed-system/tree/main/assets/md/replication_schemes.png)
 Обе репликации так или иначе инициируются центральный веб-сервисом. 
 ### Вытягивающая репликация. 
 Вытягивающая она, потому что она ~~как бы~~ вытягивает данные из наших локальных веб-сервисов. 
